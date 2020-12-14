@@ -22,4 +22,4 @@ Design: [Matrox coming soon](https://cdn.discordapp.com/attachments/648536139677
 - no AJAX (data sending)
 
 ## Authors
-[Rimantas](https://github.com/belauzas)
+[Jurate](https://github.com/JurateJ)
